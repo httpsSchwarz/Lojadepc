@@ -312,4 +312,12 @@ body {
 
     /* página produto 1 abaixo */
 
-    
+.carrosselDeImagens{
+    display: flex;
+    flex-direction:row;
+    padding-left: 30px;
+    margin: auto 0;
+}
+.imagemprodutogrande{
+    padding-left: 40px;    
+}
